@@ -1,0 +1,2 @@
+# Requires: paradoxical-cycle
+# (Not available on PyPI)
